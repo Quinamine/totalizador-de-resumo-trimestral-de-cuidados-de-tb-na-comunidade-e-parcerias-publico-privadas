@@ -1,17 +1,17 @@
-# Totalizador de Resumo Trimestral de Cuidados de TB na Comunidade e Parcerias Públicas Privadas
+# Totalizador de Resumo Trimestral de Cuidados de TB na Comunidade e Parcerias Público-Privadas
 
-![Trecho do Totalizador do resumo trimestral de cuidados de TB na comunidade e parcerias públicas privadas](imagens/totalizador-de-resumo-trimestral-de-cuidados-de-tb-na-comunidade-e-parcerias-publicas-privadas.png)
+![Trecho do Totalizador do resumo trimestral de cuidados de TB na comunidade e parcerias público-privadas](imagens/totalizador-de-resumo-trimestral-de-cuidados-de-tb-na-comunidade-e-parcerias-publico-privadas.png)
 
-O **Totalizador de Resumo Trimestral de Cuidados de TB na Comunidade e Parcerias Públicas Privadas** é um serviço online gratuito que auxilia na elaboração do resumo trimestral de cuidados de TB na comunidade e parcerias públicas privadas, por meio do cálculo automático dos totais com base nos dados preenchidos pelo usuário. Foi criado de acordo com o modelo da respectiva ficha de resumo mensal actualmente vigente no Serviço Nacional de Saúde em Moçambique.
+O **Totalizador de Resumo Trimestral de Cuidados de TB na Comunidade e Parcerias Público-Privadas** é um serviço online gratuito que auxilia na elaboração do resumo trimestral de cuidados de TB na comunidade e parcerias público-privadas, por meio do cálculo automático dos totais com base nos dados preenchidos pelo usuário. Foi criado de acordo com o modelo da respectiva ficha de resumo mensal actualmente vigente no Serviço Nacional de Saúde em Moçambique.
 
 
 ## Objectivos
 
-* Auxiliar os Profissionais de Saúde na totalização do resumo trimestral de cuidados de TB na comunidade e parcerias públicas privadas com exatidão e prontidão;
+* Auxiliar os Profissionais de Saúde na totalização do resumo trimestral de cuidados de TB na comunidade e parcerias público-privadas com exatidão e prontidão;
 
 * Minimizar possíveis erros de totalização (por exemplo, somar involuntariamente células não correspondentes ou registar o total da linha A, na linha B);
 
-* Expandir o acesso à ficha de resumo trimestral de cuidados de TB na comunidade e parcerias públicas privadas.
+* Expandir o acesso à ficha de resumo trimestral de cuidados de TB na comunidade e parcerias público-privadas.
 
 
 ## O que eu preciso dispor para, e como utilizar o totalizador?

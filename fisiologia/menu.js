@@ -142,9 +142,9 @@ function eventos() {
     btnFecharAjuda.addEventListener("click", () => menu.fecharArtigo("ajuda"));
     // PARTILHAR 
     const data = {
-        title: "Totalizador de Resumo Trimestral de Cuidados de TB na Comunidade e Parcerias Públicas Privadas",
-        text: "Totaliza automaticamente o resumo trimestral de cuidados de TB na comunidade e parcerias públicas privadas com base nos dados inseridos pelo usuário. Foi desenvolvido de acordo com o modelo da respectiva ficha de resumo mensal actualmente vigente no Serviço Nacional de Saúde em Moçambique.",
-        url: "https://quinamine.github.io/totalizador-de-resumo-trimestral-de-cuidados-de-tb-na-comunidade-e-parcerias-publicas-privadas/index.html"
+        title: "Totalizador de Resumo Trimestral de Cuidados de TB na Comunidade e Parcerias Público-Privadas",
+        text: "Totaliza automaticamente o resumo trimestral de cuidados de TB na comunidade e parcerias público-privadas com base nos dados inseridos pelo usuário. Foi desenvolvido de acordo com o modelo da respectiva ficha de resumo mensal actualmente vigente no Serviço Nacional de Saúde em Moçambique.",
+        url: "https://quinamine.github.io/totalizador-de-resumo-trimestral-de-cuidados-de-tb-na-comunidade-e-parcerias-publico-privadas/index.html"
     }
     const btnPartilhar = document.querySelector(".header__menu__btn--partilhar");
     btnPartilhar.addEventListener("click", () => {

@@ -63,6 +63,7 @@
     padding: 5px 0;
     background-color: var(--fullblack);
     color: var(--yt);
+    font-size: 15.2px;
 }
 .ficha__titulo {
     text-transform: uppercase;
