@@ -172,6 +172,9 @@
     padding-left: 4px;
     padding-bottom: 15px;
 }
+[readonly] {
+    background-color: var(--gray--light);
+}
 [data-total]:focus,
 .input-nao-celular:focus,
 .input-celular--focus:focus {
