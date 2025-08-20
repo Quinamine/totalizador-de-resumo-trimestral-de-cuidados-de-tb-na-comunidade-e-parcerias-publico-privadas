@@ -9,7 +9,7 @@ O **Totalizador de Resumo Trimestral de Cuidados de TB na Comunidade e Parcerias
 
 * Auxiliar os profissionais de saúde na totalização do resumo trimestral de cuidados de TB na comunidade e parcerias público-privadas com exatidão e prontidão;
 
-* Minimizar possíveis erros de totalização (por exemplo, somar involuntariamente células não correspondentes ou registar o total da linha A, na linha B);
+* Minimizar possíveis erros de totalização (por exemplo, somar involuntariamente células não correspondentes ou registar o total da linha "A", na linha "B");
 
 * Expandir o acesso à ficha de resumo trimestral de cuidados de TB na comunidade e parcerias público-privadas.
 
