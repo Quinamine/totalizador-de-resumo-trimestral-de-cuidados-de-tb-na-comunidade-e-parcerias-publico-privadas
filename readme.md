@@ -2,7 +2,7 @@
 
 ![Trecho do Totalizador do resumo trimestral de cuidados de TB na comunidade e parcerias público-privadas](imagens/totalizador-de-resumo-trimestral-de-cuidados-de-tb-na-comunidade-e-parcerias-publico-privadas.png)
 
-O **Totalizador de Resumo Trimestral de Cuidados de TB na Comunidade e Parcerias Público-Privadas** é um serviço online gratuito que auxilia na elaboração do resumo trimestral de cuidados de TB na comunidade e parcerias público-privadas por meio do cálculo automático dos totais com base nos dados inseridos pelo usuário. Foi desenvolvido de acordo com o modelo da respectiva ficha de resumo mensal actualmente vigente no Serviço Nacional de Saúde em Moçambique.
+O **Totalizador de Resumo Trimestral de Cuidados de TB na Comunidade e Parcerias Público-Privadas** é um serviço online gratuito, que auxilia na elaboração do resumo trimestral de cuidados de TB na comunidade e parcerias público-privadas por meio do cálculo automático dos totais com base nos dados inseridos pelo usuário. Foi desenvolvido de acordo com o modelo da respectiva ficha de resumo mensal actualmente vigente no Serviço Nacional de Saúde em Moçambique.
 
 
 ## Objectivos
